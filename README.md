@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @oscaraksoy
+-  Hi, there  👋
 
 <!---
 oscaraksoy/oscaraksoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
